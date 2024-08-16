@@ -1,12 +1,12 @@
 package main
 
 import (
+	"log"
+
 	"github.com/gin-gonic/gin"
 	"github.com/stupidlamo/songlist/internal/auth"
 	"github.com/stupidlamo/songlist/internal/controllers"
 	"github.com/stupidlamo/songlist/internal/database"
-	"log"
-	"net/http"
 )
 
 func main() {
