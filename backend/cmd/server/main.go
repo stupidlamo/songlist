@@ -4,9 +4,9 @@ import (
 	"log"
 
 	"github.com/gin-gonic/gin"
-	"github.com/stupidlamo/songlist/internal/auth"
-	"github.com/stupidlamo/songlist/internal/controllers"
-	"github.com/stupidlamo/songlist/internal/database"
+	"github.com/stupidlamo/songlist/backend/internal/auth"
+	"github.com/stupidlamo/songlist/backend/internal/controllers"
+	"github.com/stupidlamo/songlist/backend/internal/database"
 )
 
 func main() {

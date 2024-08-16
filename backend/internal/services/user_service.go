@@ -3,10 +3,10 @@ package services
 import (
 	"errors"
 
-	"github.com/yourusername/yourproject/internal/auth"
-	"github.com/yourusername/yourproject/internal/database"
-	"github.com/yourusername/yourproject/internal/models"
-	"github.com/yourusername/yourproject/internal/repositories"
+	"github.com/stupidlamo/songlist/backend/internal/auth"
+	"github.com/stupidlamo/songlist/backend/internal/database"
+	"github.com/stupidlamo/songlist/backend/internal/models"
+	"github.com/stupidlamo/songlist/backend/internal/repositories"
 	"golang.org/x/crypto/bcrypt"
 )
 

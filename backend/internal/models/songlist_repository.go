@@ -1,7 +1,7 @@
 package repositories
 
 import (
-	"github.com/yourusername/yourproject/internal/models"
+	"github.com/stupidlamo/songlist/backend/internal/models"
 	"gorm.io/gorm"
 )
 

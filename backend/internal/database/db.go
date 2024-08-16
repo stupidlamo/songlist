@@ -3,7 +3,7 @@ package database
 import (
 	"log"
 
-	"github.com/yourusername/yourproject/internal/models"
+	"github.com/stupidlamo/songlist/backend/internal/models"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 )

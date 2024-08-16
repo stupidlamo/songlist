@@ -1,9 +1,9 @@
 package services
 
 import (
-	"github.com/yourusername/yourproject/internal/database"
-	"github.com/yourusername/yourproject/internal/models"
-	"github.com/yourusername/yourproject/internal/repositories"
+	"github.com/stupidlamo/songlist/backend/internal/database"
+	"github.com/stupidlamo/songlist/backend/internal/models"
+	"github.com/stupidlamo/songlist/backend/internal/repositories"
 )
 
 // Получение всех списков песен для пользователя
