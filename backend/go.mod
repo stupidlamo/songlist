@@ -1,4 +1,4 @@
-module github.com/stupidlamo/songlist
+module github.com/stupidlamo/songlist/backend
 
 go 1.23.0
 
